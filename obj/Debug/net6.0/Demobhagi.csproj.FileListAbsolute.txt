@@ -1,0 +1,15 @@
+C:\Users\mahender\Demobhagi\bin\Debug\net6.0\Demobhagi.exe
+C:\Users\mahender\Demobhagi\bin\Debug\net6.0\Demobhagi.deps.json
+C:\Users\mahender\Demobhagi\bin\Debug\net6.0\Demobhagi.runtimeconfig.json
+C:\Users\mahender\Demobhagi\bin\Debug\net6.0\Demobhagi.dll
+C:\Users\mahender\Demobhagi\bin\Debug\net6.0\ref\Demobhagi.dll
+C:\Users\mahender\Demobhagi\bin\Debug\net6.0\Demobhagi.pdb
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\Demobhagi.csproj.AssemblyReference.cache
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\Demobhagi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\Demobhagi.AssemblyInfoInputs.cache
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\Demobhagi.AssemblyInfo.cs
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\Demobhagi.csproj.CoreCompileInputs.cache
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\Demobhagi.dll
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\ref\Demobhagi.dll
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\Demobhagi.pdb
+C:\Users\mahender\Demobhagi\obj\Debug\net6.0\Demobhagi.genruntimeconfig.cache
